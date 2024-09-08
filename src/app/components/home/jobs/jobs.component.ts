@@ -15,20 +15,20 @@ export class JobsComponent implements OnInit {
   ngOnInit(): void {
 
     this.jobs = [
-      {
-      "Tab": "Akal Information LTD.",
-      "Title": "Fullstack Developer",
-      "Date": "March 2021 - Present",
-      "Description": [
-        "Creation and maintenance of REST APIs using Node.Js, Express and sometimes also in Java using Spring Boot framework",
-        "Developement and Maintaince of Function in Sql(PostgreSQL) and Services in NoSql(AWS DynamoDB) to resuce load while using Node.",
-        "Implementation of continuous integration and daily backups.",
-        "Creation and maintenance of Platforms Done in Angular, Node, PostgreSQL, RxJS, (s)css, responsiveness, and user management and configuration of general parameters.",
-        "Strong understanding of authentication, authorization, and security principles.",
-        "Familiar with cloud platforms like Azure for deploying and managing applications."
+  //     {
+  //     "Tab": "Akal Information LTD.",
+  //     "Title": "Fullstack Developer",
+  //     "Date": "March 2021 - Present",
+  //     "Description": [
+  //       "Creation and maintenance of REST APIs using Node.Js, Express and sometimes also in Java using Spring Boot framework",
+  //       "Developement and Maintaince of Function in Sql(PostgreSQL) and Services in NoSql(AWS DynamoDB) to resuce load while using Node.",
+  //       "Implementation of continuous integration and daily backups.",
+  //       "Creation and maintenance of Platforms Done in Angular, Node, PostgreSQL, RxJS, (s)css, responsiveness, and user management and configuration of general parameters.",
+  //       "Strong understanding of authentication, authorization, and security principles.",
+  //       "Familiar with cloud platforms like Azure for deploying and managing applications."
 
-      ]
-  },
+  //     ]
+  // },
   {
       "Tab": "ShapeAI [Dev Town]",
       "Title": "Data Analyst",
