@@ -16,7 +16,7 @@ export class JobsComponent implements OnInit {
 
     this.jobs = [
       {
-      "Tab": "Akal Information LTD.",
+      "Tab": "Akal Information LTD.", 
       "Title": "Fullstack Developer",
       "Date": "March 2021 - Present",
       "Description": [
