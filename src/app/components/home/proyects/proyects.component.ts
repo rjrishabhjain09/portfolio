@@ -49,33 +49,33 @@ this.projects=[
 //   "demoLink": "https://expobazaar.com/",
 //   "Technologies": ["NodeJS", "Angular", "AWS DynamoDB", "Express.Js","RxJS"]
 // },
-{
-  "Title": "Contract-Jobs",
+// {
+//   "Title": "Contract-Jobs",
 
-  "Description":"This project featured <span class='underline'>JWT token authentication</span>, <span class='underline'>role-based access</span> control, and <span class='underline'>Google OAuth2</span> for secure email capabilities. Integrated <span class='underline'>JQuery &amp; Bootstrap</span> for a polished user interface &amp; implemented <span class='underline'>lazy loading</span> for optimized performance. <span class='underline'>Router guards &amp; animations</span> were used for a seamless user experience. Also developed <span class='underline'>reactive forms</span>, handled <span class='underline'>PDF generation &amp; downloads</span>, &amp; leveraged <span class='underline'>dependency injection &amp; RxJS</span> for efficient asynchronous operations with <span class='underline'>Interceptors</span> for handling HTTP requests and responses. This project seamlessly integrated <span class='underline'>Angular</span> with <span class='underline'>Node.js</span> &amp; <span class='underline'>PostgreSQL</span>, managing the jobseeker dashboard developement,find work for filtering jobs, applied jobs, login with OTP/Email and user-mgmt components for streamlined Job application procedure.",
+//   "Description":"This project featured <span class='underline'>JWT token authentication</span>, <span class='underline'>role-based access</span> control, and <span class='underline'>Google OAuth2</span> for secure email capabilities. Integrated <span class='underline'>JQuery &amp; Bootstrap</span> for a polished user interface &amp; implemented <span class='underline'>lazy loading</span> for optimized performance. <span class='underline'>Router guards &amp; animations</span> were used for a seamless user experience. Also developed <span class='underline'>reactive forms</span>, handled <span class='underline'>PDF generation &amp; downloads</span>, &amp; leveraged <span class='underline'>dependency injection &amp; RxJS</span> for efficient asynchronous operations with <span class='underline'>Interceptors</span> for handling HTTP requests and responses. This project seamlessly integrated <span class='underline'>Angular</span> with <span class='underline'>Node.js</span> &amp; <span class='underline'>PostgreSQL</span>, managing the jobseeker dashboard developement,find work for filtering jobs, applied jobs, login with OTP/Email and user-mgmt components for streamlined Job application procedure.",
 
 
-  "imgs": [
-      "assets/images/projects/cj main page.png",
-      "assets/images/projects/sign in.png",
-      "assets/images/projects/login opt.png",
-      "assets/images/projects/dashboard cj.png",
-      "assets/images/projects/dash2.png",
-      "assets/images/projects/dash3.png",
-      "assets/images/projects/dash4.png",
-      "assets/images/projects/dash5.png",
-      "assets/images/projects/dash6.png",
-      "assets/images/projects/dash7.png",
-      "assets/images/projects/search page cj.png",
-      "assets/images/projects/apply job cj.png",
-      // "assets/images/projects/applied job.png",
-      "assets/images/projects/find_talent.png",
-      "assets/images/projects/recruiter cj.png",
-      "assets/images/projects/blogcj.png",
-  ],
-  "demoLink": "https://www.contract-jobs.com/",
-  "Technologies": ["NodeJS", "Angular", "PostgreSQL", "Angular Material"]
-},
+//   "imgs": [
+//       "assets/images/projects/cj main page.png",
+//       "assets/images/projects/sign in.png",
+//       "assets/images/projects/login opt.png",
+//       "assets/images/projects/dashboard cj.png",
+//       "assets/images/projects/dash2.png",
+//       "assets/images/projects/dash3.png",
+//       "assets/images/projects/dash4.png",
+//       "assets/images/projects/dash5.png",
+//       "assets/images/projects/dash6.png",
+//       "assets/images/projects/dash7.png",
+//       "assets/images/projects/search page cj.png",
+//       "assets/images/projects/apply job cj.png",
+//       // "assets/images/projects/applied job.png",
+//       "assets/images/projects/find_talent.png",
+//       "assets/images/projects/recruiter cj.png",
+//       "assets/images/projects/blogcj.png",
+//   ],
+//   "demoLink": "https://www.contract-jobs.com/",
+//   "Technologies": ["NodeJS", "Angular", "PostgreSQL", "Angular Material"]
+// },
 {
   "Title": "Deep Fake",
   "Description":  "Deepfakes works to <span class='underline'> Artificial Lip-Sync on Videos with Eye </span> and <span class='underline'> Facial Expression.</span> It creates <span class='underline'> realistic-looking fake videos</span>, in which it seems that someone is doing and saying something even though they didn’t do Anything. With the Help of the <span class='underline'> First Order Model for Image Animation </span> <span class='underline'>, Autoencoders & GAN's </span> helped to train this model.",
