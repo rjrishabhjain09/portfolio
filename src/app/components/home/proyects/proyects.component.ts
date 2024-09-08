@@ -28,26 +28,27 @@ export class ProyectsComponent implements OnInit {
 
   ngOnInit(): void {
 
-this.projects=[{
-  "Title": "Expo Bazaar",
-  "Description": "Expobazaar is an e-commerce website developed using a tech stack consisting of <span class='underline'> Node.js for server less functions, AngularJS for the front-end, and AWS DynamoDB for data storage</span>.The goal of this project is to provide user-friendly online shopping experience, showcasing a wide range of products. Monitoring application and implementing new features for smooth user experience.",
-  "imgs": [
-      "assets/images/projects/expo-mainpage.png",
-      "assets/images/projects/exposignin.png",
-      "assets/images/projects/expobazaar.com_kitchen-dining.png",
-      "assets/images/projects/product img.png",
-      "assets/images/projects/cart page1.png",
-      // "assets/images/projects/cart2.png",
-      "assets/images/projects/cart 3.png",
-      "assets/images/projects/cart 4.png",
-      // "assets/images/projects/loading payment.png",
-      "assets/images/projects/payment done.png",
-      "assets/images/projects/order invoices.png",
-      "assets/images/projects/transaction history.png"
-  ],
-  "demoLink": "https://expobazaar.com/",
-  "Technologies": ["NodeJS", "Angular", "AWS DynamoDB", "Express.Js","RxJS"]
-},
+this.projects=[
+//   {
+//   "Title": "Expo Bazaar",
+//   "Description": "Expobazaar is an e-commerce website developed using a tech stack consisting of <span class='underline'> Node.js for server less functions, AngularJS for the front-end, and AWS DynamoDB for data storage</span>.The goal of this project is to provide user-friendly online shopping experience, showcasing a wide range of products. Monitoring application and implementing new features for smooth user experience.",
+//   "imgs": [
+//       "assets/images/projects/expo-mainpage.png",
+//       "assets/images/projects/exposignin.png",
+//       "assets/images/projects/expobazaar.com_kitchen-dining.png",
+//       "assets/images/projects/product img.png",
+//       "assets/images/projects/cart page1.png",
+//       // "assets/images/projects/cart2.png",
+//       "assets/images/projects/cart 3.png",
+//       "assets/images/projects/cart 4.png",
+//       // "assets/images/projects/loading payment.png",
+//       "assets/images/projects/payment done.png",
+//       "assets/images/projects/order invoices.png",
+//       "assets/images/projects/transaction history.png"
+//   ],
+//   "demoLink": "https://expobazaar.com/",
+//   "Technologies": ["NodeJS", "Angular", "AWS DynamoDB", "Express.Js","RxJS"]
+// },
 {
   "Title": "Contract-Jobs",
 
